@@ -1,6 +1,7 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
+![imagen]<img width="1371" height="704" alt="image" src="https://github.com/user-attachments/assets/bcd06b09-0e87-463b-a16a-e82f3dcc603f" />
+
 ## Herramientas utilizadas:
 
 * HTML
@@ -11,6 +12,7 @@
 
 ## Hecho por:
 
-###Amelia Perez 
+### Amelia Perez 
 
 ### Linkedin: https://www.linkedin.com/in/yemasu-amelia-perez/
+
